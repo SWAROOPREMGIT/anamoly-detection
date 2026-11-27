@@ -10,3 +10,7 @@ results/*.png
 .ipynb_checkpoints/
 
 src_old/
+node_modules/
+__pycache__/
+venv/
+.env
